@@ -1,3 +1,9 @@
+/* CFG 
+S -> BABABAB
+B -> 0B/ε
+A -> 1/ε
+*/
+
 //Libraries
 #include<iostream>
 #include<algorithm>
