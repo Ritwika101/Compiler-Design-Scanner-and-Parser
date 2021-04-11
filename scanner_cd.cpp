@@ -72,7 +72,7 @@ void Scanner(string s){
     if(state==4)
         cout<<"String "<<s<<" is not accepted by this scanner";
     else
-        cout<<"Succesfull Scanning!"<<endl<<"String "<<s<<" is accepted by this scanner";
+        cout<<"Succesful Scanning!"<<endl<<"String "<<s<<" is accepted by this scanner";
 
 }
 int main()
